@@ -115,10 +115,3 @@ widgetsnbextension==3.6.1
 wrapt==1.14.1
 wsproto==1.1.0
 wxPython==4.0.7
-xdg==5S
-xkit==0.0.0
-xxhash==3.1.0
-yarl==1.8.1
-youtube-dl==2021.12.17
-zeroconf==0.39.1
-zipp==1.0.0
