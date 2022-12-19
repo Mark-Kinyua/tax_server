@@ -6,7 +6,6 @@ beautifulsoup4==4.10.0
 cachetools==4.2.2
 charset-normalizer==2.1.1
 datasets==2.6.1
-dbus-python==1.2.18
 debugpy==1.6.2
 decorator==5.1.1
 distlib==0.3.5
@@ -112,4 +111,3 @@ Werkzeug==2.2.2
 widgetsnbextension==3.6.1
 wrapt==1.14.1
 wsproto==1.1.0
-wxPython==4.0.7
