@@ -5,7 +5,6 @@ async-timeout==4.0.2
 beautifulsoup4==4.10.0
 cachetools==4.2.2
 charset-normalizer==2.1.1
-chrome-gnome-shell==0.0.0
 command-not-found==0.3
 datasets==2.6.1
 dbus-python==1.2.18
