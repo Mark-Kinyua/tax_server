@@ -90,7 +90,6 @@ tinycss2==1.1.1
 tinysegmenter==0.3
 tk==0.1.0
 tokenizers==0.13.1
-torbrowser-launcher==0.3.3
 torch==1.12.1
 torchvision==0.13.1
 tornado==6.2
@@ -122,7 +121,7 @@ widgetsnbextension==3.6.1
 wrapt==1.14.1
 wsproto==1.1.0
 wxPython==4.0.7
-xdg==5
+xdg==5S
 xkit==0.0.0
 xxhash==3.1.0
 yarl==1.8.1
