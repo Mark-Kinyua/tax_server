@@ -72,7 +72,6 @@ rsa==4.9
 scikit-learn==1.2.0
 scipy==1.9.2
 SCons==4.0.1
-screen-resolution-extra==0.0.0
 systemd-python==234
 tabula-py==2.5.1
 tabulate==0.8.9
