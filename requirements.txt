@@ -68,7 +68,6 @@ resolvelib==0.5.4
 responses==0.18.0
 rom==1.0.4
 roman==2.0.0
-rpm==4.17.0
 rsa==4.9
 scikit-learn==1.2.0
 scipy==1.9.2
