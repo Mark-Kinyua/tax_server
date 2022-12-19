@@ -6,7 +6,6 @@ anyio==3.6.1
 api-display-purposes==0.0.3
 appdirs==1.4.4
 APScheduler==3.6.3
-apturl==0.5.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 Aspose.Slides==22.11.0
