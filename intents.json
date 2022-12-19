@@ -1,0 +1,154 @@
+{
+   "intents":[
+      {
+         "tag":"greetings",
+         "patterns":[
+            "hello",
+            "hi",
+            "hey",
+            "good day",
+            "good morning",
+            "greeting",
+            "what's up?"
+         ],
+         "responses":[
+            "Hello!, need any information on tax?",
+            "Hey!, have a tax inquiry?",
+            "What can i do for you?",
+            "What would you like to know about tax?"
+         ]
+      },
+      {
+         "tag":"goodbye",
+         "patterns":[
+            "cya",
+            "bye",
+            "goodbye",
+            "see you later"
+         ],
+         "responses":[
+            "Sad to see you go: (",
+            "See you later!",
+            "Goodbye!",
+            "Come back when you need to know something else"
+         ]
+      },
+      {
+         "tag":"Animals",
+         "patterns":[
+            "I want to import rare meat",
+            "I want to bring fish",
+            "I want to bring swine",
+            "I want to import bird",
+            "I want to export rare meat",
+            "I want export to bring fish",
+            "I want to bring swine",
+            "I want to export bird"
+         ],
+         "responses":[
+            "Going rate is 25% of product",
+            " It is 25% of cost",
+            "You will pay tax that is 25% of cost",
+            "That will be 25% of cost"
+         ]
+      },
+      {
+         "tag":"Vegetables",
+         "patterns":[
+            "I want to import trees",
+            "I want to export roses",
+            "I want to export orchids"
+         ],
+         "responses":[
+            "Going rate is 25% of product to pay in tax.",
+            "That will be 25% of cost"
+         ]
+      },
+      {
+         "tag":"import",
+         "patterns":[
+            "I'd like to import something",
+            "I have something abroad",
+            "I have a good abroad"
+         ],
+         "responses":[
+            "What item do you need to bring in?",
+            "What item would you like to transport.",
+            "What item is it your moving?"
+         ]
+      },
+      {
+         "tag":"export",
+         "patterns":[
+            "I'd like to Export something",
+            "I want to send something"
+         ],
+         "responses":[
+            "What item do you need to take away?",
+            "What item would you like to transport.",
+            "What item is it your moving?"
+         ]
+      },
+      {
+         "tag":"Minerals",
+         "patterns":[
+            "I want to import minerals",
+            "I want to bring in quicklime",
+            "I want to import cement",
+            "I want to export minerals",
+            "I want to take away quicklime",
+            "I want to export cement"
+         ],
+         "responses":[
+            "That will you set you back 35% of item cost",
+            "That will cost 35% of item.",
+            "That will set you back 35% of item in tax."
+         ]
+      },
+      {
+         "tag":"chemicals",
+         "patterns":[
+            "I want to import chemicals",
+            "I want to bring in acid",
+            "I want to export acid"
+         ],
+         "responses":[
+            "That will cost you 10% of item in tax.",
+            "Thay will set you back 10% of item cost"
+         ]
+      },
+      {
+         "tag":"machine",
+         "patterns":[
+            "I want to import machines",
+            "I want to bring in kettle",
+            "I want to import cup",
+            "I want to export machine",
+            "I want to take away ",
+            "I want to export cement"
+         ],
+         "responses":[
+            "That will you set you back 10% of item cost",
+            "That will cost 10% of item.",
+            "That will set you back 10% of item in tax."
+         ]
+      },
+      {
+         "tag":"vehicles",
+         "patterns":[
+            "I want to import a car",
+            "I want to bring in vehicle",
+            "I want to import car",
+            "I want to export toyota",
+            "I want to take away toyota",
+            "I want to export a car",
+            "i want to import a honda"
+         ],
+         "responses":[
+            "Depending on model, the rate depends, proceed to 'https://www.kra.go.ke/individual/calculate-tax/calculating-tax/car-import-duty' for more infomration",
+            "Such infomration can be found on 'https://www.kra.go.ke/individual/calculate-tax/calculating-tax/car-import-duty'.",
+            "It depends on the make, procees to 'https://www.kra.go.ke/individual/calculate-tax/calculating-tax/car-import-duty' for more infomration"
+         ]
+      }
+   ]
+}
